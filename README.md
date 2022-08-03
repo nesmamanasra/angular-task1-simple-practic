@@ -10,4 +10,7 @@ In the task directory, you can follow this steps:
 - in app folder you can see this file : 
   - app.component.ts
   - app.component.html
-  ` you can paste this code and out this code into this file`
+  `You can copy the code that I uploaded and you can put it in the files I mentioned to you`
+
+# learn more 
+[You can learn more in the Create Angular App documentation.](https://angular.io/cli)
