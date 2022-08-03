@@ -24,7 +24,7 @@ You can learn more in the Create [Angular App documentation.](https://angular.io
   - write the name and create two buttons, when clicking these buttons, button one: convert the name to uppercase, and  button two: convert the name to lowercase
 
 ##### solutions to these requirements
- - counter task: 
+ - Counter task: 
    - HTML
            
            <h1>{{counter }}</h1>
