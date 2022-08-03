@@ -26,10 +26,13 @@ You can learn more in the Create [Angular App documentation.](https://angular.io
 ##### solutions to these requirements
  - firstly: 
    - HTML 
+         `
          <h1>{{counter }}</h1>
          <button (click)="increment()">click me increment</button>
          <button (click)="decrement()">click me decrement</button>
+         `
   - TS
+            `
             counter = 0;
             increment(){
             this.counter ++ ;
@@ -37,3 +40,4 @@ You can learn more in the Create [Angular App documentation.](https://angular.io
            decrement(){
            this.counter --;
             }
+            `
