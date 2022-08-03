@@ -59,3 +59,7 @@ You can learn more in the Create [Angular App documentation.](https://angular.io
             LowerCase(){
               this.name.toLowerCase()
             };
+
+
+
+
